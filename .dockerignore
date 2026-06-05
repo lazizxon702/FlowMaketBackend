@@ -1,0 +1,12 @@
+**/.git
+**/.idea
+**/bin
+**/obj
+**/logs
+**/*.user
+**/*.suo
+**/node_modules
+**/FlowMarketServicesln
+**/frontend
+**/.env
+**/.cursor
